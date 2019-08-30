@@ -1,0 +1,23 @@
+{
+  "name": "polyglotus",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "functions-framework --target=translate",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idainatovych/polyglotus.git"
+  },
+  "author": "Illia Dainatovych",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idainatovych/polyglotus/issues"
+  },
+  "homepage": "https://github.com/idainatovych/polyglotus#readme",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.2.1"
+  }
+}
