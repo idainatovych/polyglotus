@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/idainatovych/polyglotus#readme",
   "dependencies": {
-    "@google-cloud/functions-framework": "^1.2.1",
     "@google-cloud/translate": "4.1.3"
   }
 }
